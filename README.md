@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dharanidhara D J</h1>
-<h3 align="center">I build real products, not just projects.</h3>
-
-<p align="center">
-  🚀 Full-stack developer • ⚡ Fast builder • 🎯 GSoC 2026 aspirant
-</p>
+<h3 align="center">Building real-world applications</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🚀 I build MVPs that solve real problems  
-- 💡 Currently working on:
-  - **Link-in-bio commerce platform** (creator stores with payments)
-  - **SnapCopy** → Skip Xerox queues, upload & print instantly  
-  - **EntreRadar** → Find entrepreneurs near you  
-- 🎯 Goal: Crack **Google Summer of Code 2026**  
-- ⚡ I move fast, break things, and learn faster  
+- I focus on building practical, real-world software  
+- Interested in systems, marketplaces, and product engineering  
+- Currently exploring scalable backend architecture and payments  
 
 ---
 
@@ -47,55 +39,8 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🖨️ SnapCopy  
-> No more standing in line for printouts  
-
-- Upload document → choose shop → ready on arrival  
-- Built with Next.js + Firebase  
-- Focus: real-world utility + speed  
-
----
-
-### 🛒 Creator Store Platform (Link-in-bio commerce)
-> Turn Instagram into a storefront  
-
-- One link → full store  
-- Razorpay integration + 15% commission model  
-- Solves real creator monetization problem  
-
----
-
-### 📡 EntreRadar  
-> Find entrepreneurs around you  
-
-- Real-time proximity-based networking  
-- Built with geolocation + Firebase  
-- Focus: offline → online connection bridge  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djdharani27&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djdharani27&theme=tokyonight" />
-</p>
-
----
-
-## ⚡ Current Focus
-
-- 💳 Payments + marketplace systems (Razorpay, commissions)
-- ⚙️ Scalable backend architecture
-- 🌍 Open source contributions (GSoC prep)
-
----
-
-## 💬 Philosophy
-
-> I don’t just write code — I build things people actually use.
+- SnapCopy  
+- Creator Store Platform  
+- EntreRadar  
