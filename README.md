@@ -41,7 +41,6 @@
 
 ## 🚀 Projects
 
-- SnapCopy  
-- Creator Store Platform  
 - EntreRadar
+- SnapCopy  
 - Clyk
