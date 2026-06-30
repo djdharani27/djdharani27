@@ -16,7 +16,6 @@
 
 ---
 
-## 🚀 Projects
 
 - EntreRadar
 - SnapCopy  
